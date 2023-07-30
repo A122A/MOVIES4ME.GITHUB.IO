@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    background-color: blue;
+    height: 60px;
+    width: 1390px;
+}
+.red{
+    background-color: blueviolet;
+    border: 3px solid  white;
+    width: 1390px;
+    height: 300px;
+    
+}
+.blue{
+     background-color: lightpink;
+     height: 100px;
+     width: 1390px;
+}
+h2 {
+    padding: 5px;
+    font-weight: bold;
+    background-color: #3E0D35;
+    color: #fff;
+    border-radius: 3px;}
+    
